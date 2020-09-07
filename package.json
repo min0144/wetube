@@ -4,7 +4,6 @@
   "description": "Cloning Youtube with Vanilla and NodeJS",
   "main": "index.js",
   "author": "Hyunmin Kim",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
   }
